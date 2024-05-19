@@ -3,8 +3,6 @@ Projeto simples para facilitar a inclusão de gorjetas em contas de restaurantes
 Com essas informações, o sistema calcula automaticamente a quantia de gorjeta que o usuário deve pagar, com base na porcentagem atribuída à qualidade do serviço. 
 Essa ferramenta torna o processo de dar gorjetas mais conveniente e eficiente, proporcionando uma experiência rápida e personalizada.
 
-Link de produção: https://mctks2.github.io/Calculadora-de-gorjetas/ 
-
 ## Tecnologias utilizadas 
 - HTML
 - CSS
